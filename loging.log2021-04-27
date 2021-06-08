@@ -1,0 +1,50 @@
+27 Apr 2021 18:42:41,279 TRACE - 
+Tracking bag: 1
+27 Apr 2021 18:42:41,293 TRACE - loading unto plane to JFK
+27 Apr 2021 18:42:41,294 TRACE - arrived at JFK
+27 Apr 2021 18:42:41,294 TRACE - <<callback of bag1: at JFK>>
+27 Apr 2021 18:42:41,295 TRACE - transfering to another terminal
+27 Apr 2021 18:42:41,295 TRACE - <<callback of bag1: at transfer>>
+27 Apr 2021 18:42:41,296 TRACE - loading unto plane to MUC
+27 Apr 2021 18:42:41,296 TRACE - arrived at MUC
+27 Apr 2021 18:42:41,296 TRACE - <<callback of bag1: at MUC>>
+27 Apr 2021 18:42:41,296 TRACE - transfering to another terminal
+27 Apr 2021 18:42:41,296 TRACE - <<callback of bag1: at transfer>>
+27 Apr 2021 18:42:41,296 TRACE - loading unto plane to KBP
+27 Apr 2021 18:42:41,296 TRACE - arrived at KBP
+27 Apr 2021 18:42:41,296 TRACE - <<callback of bag1: at KBP>>
+27 Apr 2021 18:42:41,297 TRACE - exiting to baggage claim
+27 Apr 2021 18:42:41,298 TRACE - <<callback of bag1: at baggage claim>>
+27 Apr 2021 18:42:41,298 TRACE - 
+Tracking bag: 2
+27 Apr 2021 18:42:41,298 TRACE - loading unto plane to HOU
+27 Apr 2021 18:42:41,298 TRACE - arrived at HOU
+27 Apr 2021 18:42:41,298 TRACE - <<callback of bag2: at HOU>>
+27 Apr 2021 18:42:41,299 TRACE - exiting to baggage claim
+27 Apr 2021 18:42:41,299 TRACE - <<callback of bag2: at baggage claim>>
+27 Apr 2021 18:42:41,299 TRACE - [JFK, transfer, MUC, transfer, KBP, baggage claim]
+27 Apr 2021 19:21:34,493 TRACE - 
+Tracking bag: 1
+27 Apr 2021 19:21:34,496 TRACE - loading unto plane to JFK
+27 Apr 2021 19:21:34,496 TRACE - arrived at JFK
+27 Apr 2021 19:21:34,496 TRACE - <<callback of bag1: at JFK>>
+27 Apr 2021 19:21:34,497 TRACE - transfering to another terminal
+27 Apr 2021 19:21:34,497 TRACE - <<callback of bag1: at transfer>>
+27 Apr 2021 19:21:34,497 TRACE - loading unto plane to MUC
+27 Apr 2021 19:21:34,497 TRACE - arrived at MUC
+27 Apr 2021 19:21:34,497 TRACE - <<callback of bag1: at MUC>>
+27 Apr 2021 19:21:34,497 TRACE - transfering to another terminal
+27 Apr 2021 19:21:34,497 TRACE - <<callback of bag1: at transfer>>
+27 Apr 2021 19:21:34,497 TRACE - loading unto plane to KBP
+27 Apr 2021 19:21:34,497 TRACE - arrived at KBP
+27 Apr 2021 19:21:34,497 TRACE - <<callback of bag1: at KBP>>
+27 Apr 2021 19:21:34,498 TRACE - exiting to baggage claim
+27 Apr 2021 19:21:34,498 TRACE - <<callback of bag1: at baggage claim>>
+27 Apr 2021 19:21:34,498 TRACE - 
+Tracking bag: 2
+27 Apr 2021 19:21:34,498 TRACE - loading unto plane to HOU
+27 Apr 2021 19:21:34,498 TRACE - arrived at HOU
+27 Apr 2021 19:21:34,498 TRACE - <<callback of bag2: at HOU>>
+27 Apr 2021 19:21:34,498 TRACE - exiting to baggage claim
+27 Apr 2021 19:21:34,498 TRACE - <<callback of bag2: at baggage claim>>
+27 Apr 2021 19:21:34,498 TRACE - [JFK, transfer, MUC, transfer, KBP, baggage claim]
